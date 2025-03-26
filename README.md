@@ -1,2 +1,2 @@
-# Foodrecommederproject
+# Tasty Tracker
 Capstone Project
